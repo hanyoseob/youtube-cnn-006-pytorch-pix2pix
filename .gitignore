@@ -1,0 +1,10 @@
+/checkpoint_a2b_bnorm/
+/checkpoint_a2b_inorm/
+/checkpoint_b2a_bnorm/
+/checkpoint_b2a_inorm/
+/result_a2b_bnorm/
+/result_a2b_inorm/
+/result_b2a_bnorm/
+/result_b2a_inorm/
+/__pycache__/
+/.idea/
